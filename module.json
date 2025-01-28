@@ -1,7 +1,7 @@
 {
-  "id": "the-island-of-adventure-sd",
-  "title": "The Island of Adventure SD",
-  "description": "The Island of Adventure for Shadowdark",
+  "id": "shadowdark-jail-break",
+  "title": "Shadowdark Jail Break",
+  "description": "Jail Break Adventure for Shadowdark",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "the-island-of-adventure-sd",
-      "path": "/packs/the-island-of-adventure-sd.db",
+      "label": "shadowdark-jail-break",
+      "path": "/packs/shadowdark-jail-break.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "shadowdark"
     }
   ],
-  "url": "https://github.com/mccaffertyt/the-island-of-adventure-sd",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-of-adventure-sd/main/module.json",
-  "download": "https://github.com/mccaffertyt/the-island-of-adventure-sd/raw/main/the-island-of-adventure-sd.zip",
+  "url": "https://github.com/mccaffertyt/shadowdark-jail-break",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/shadowdark-jail-break/main/module.json",
+  "download": "https://github.com/mccaffertyt/shadowdark-jail-break/raw/main/shadowdark-jail-break.zip",
   "manifestPlusVersion": "1.2.0"
 }
